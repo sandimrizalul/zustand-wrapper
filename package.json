@@ -19,8 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/zustand-mmkv-wrapper.git"
+    "url": "git+https://github.com/sandimrizalul/zustand-wrapper.git"
   },
+  "bugs": {
+    "url": "https://github.com/sandimrizalul/zustand-wrapper/issues"
+  },
+  "homepage": "https://github.com/sandimrizalul/zustand-wrapper#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": ">=0.71.0"
