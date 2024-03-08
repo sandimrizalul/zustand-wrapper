@@ -1,0 +1,31 @@
+{
+  "name": "zustand-wrapper",
+  "version": "1.0.0",
+  "description": "Zustand wrapper",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zustand",
+    "wrapper",
+    "react-native"
+  ],
+  "author": "sandimrizalul <sandimrizalul3@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/zustand-mmkv-wrapper.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.71.0"
+  },
+  "devDependencies": {
+    "zustand": "^4.4.7"
+  }
+}
