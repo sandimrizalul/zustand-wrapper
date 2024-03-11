@@ -11,7 +11,7 @@ yarn add zustand-wrapper
 ## Usage
 
 ```python
-import useZustandWrapper from 'zustand-wrapper';
+import { MMKV } from 'react-native-mmkv';
 import {create} from 'zustand';
 import useZustandWrapper from 'zustand-wrapper';
 import {createJSONStorage, persist} from 'zustand/middleware';
