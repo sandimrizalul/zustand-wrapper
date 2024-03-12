@@ -13,7 +13,8 @@
   "keywords": [
     "zustand",
     "wrapper",
-    "react-native"
+    "react-native",
+    "mmkv"
   ],
   "author": "sandimrizalul <sandimrizalul3@gmail.com>",
   "license": "MIT",
